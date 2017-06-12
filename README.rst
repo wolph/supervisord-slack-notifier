@@ -1,7 +1,7 @@
 supervisord-slack-notifier
 ==============================================================================
 
-.. image:: https://travis-ci.org/WoLpH/supervisord-slack-notifier.png?branch=master
+.. image:: https://travis-ci.org/WoLpH/supervisord-slack-notifier.svg?branch=master
   :target: https://travis-ci.org/WoLpH/supervisord-slack-notifier
 
 Event listener for Supervisord that sends notifications to Slack via Web API
